@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>j-lauren</title>
+    <link href="https://jlcrupi.github.io/feed.xml" rel="self" />
+    <link href="https://jlcrupi.github.io" />
+    <updated>2017-07-29T13:28:52-07:00</updated>
+    <author>
+        <name>Jessica</name>
+    </author>
+    <id>https://jlcrupi.github.io</id>
+
+    <entry>
+        <title>Torn</title>
+        <author>
+            <name>Jessica</name>
+        </author>
+        <link href="https://jlcrupi.github.io/torn.html"/>
+        <id>https://jlcrupi.github.io/torn.html</id>
+            <category term="jlaurenart"/>
+
+        <updated>2017-07-29T12:54:32-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jlcrupi.github.io/media/posts/3/tornsmall.jpg" alt="" />
+                <img class="post__image--center" src="https://jlcrupi.github.io/media/posts/3/tornsmall.jpg" alt="Torn" width="3000" height="3529">
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Budding</title>
+        <author>
+            <name>Jessica</name>
+        </author>
+        <link href="https://jlcrupi.github.io/budding.html"/>
+        <id>https://jlcrupi.github.io/budding.html</id>
+            <category term="jlaurenart"/>
+
+        <updated>2017-07-29T12:49:02-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jlcrupi.github.io/media/posts/2/07-02-17small.jpg" alt="" />
+                <img class="post__image--center" src="https://jlcrupi.github.io/media/posts/2/07-02-17small.jpg" alt="Budding" width="4000" height="5337">
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Speechless</title>
+        <author>
+            <name>Jessica</name>
+        </author>
+        <link href="https://jlcrupi.github.io/speechless.html"/>
+        <id>https://jlcrupi.github.io/speechless.html</id>
+            <category term="jlaurenart"/>
+
+        <updated>2017-07-29T12:46:10-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jlcrupi.github.io/media/posts/1/metalposter.jpg" alt="" />
+                <img class="post__image--center" src="https://jlcrupi.github.io/media/posts/1/metalposter.jpg" alt="Speechless" width="3000" height="4500">
+            ]]>
+        </content>
+    </entry>
+</feed>

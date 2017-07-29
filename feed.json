@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "j-lauren",
+    "description": "",
+    "home_page_url": "https://jlcrupi.github.io",
+    "feed_url": "https://jlcrupi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jessica"
+    },
+    "items": [
+        {
+            "id": "https://jlcrupi.github.io/torn.html",
+            "url": "https://jlcrupi.github.io/torn.html",
+            "title": "Torn",
+            "content_html": "<img class=\"post__image--center\" src=\"https://jlcrupi.github.io/media/posts/3/tornsmall.jpg\" alt=\"Torn\" width=\"3000\" height=\"3529\">",
+            "image": "https://jlcrupi.github.io/media/posts/3/tornsmall.jpg",
+            "author": {
+                "name": "Jessica"
+            },
+            "tags": [
+                   "jlaurenart"
+            ],
+            "date_published": "2017-07-29T13:28:52-07:00",
+            "date_modified": "2017-07-29T12:54:32-07:00"
+        },
+        {
+            "id": "https://jlcrupi.github.io/budding.html",
+            "url": "https://jlcrupi.github.io/budding.html",
+            "title": "Budding",
+            "content_html": "<img class=\"post__image--center\" src=\"https://jlcrupi.github.io/media/posts/2/07-02-17small.jpg\" alt=\"Budding\" width=\"4000\" height=\"5337\">",
+            "image": "https://jlcrupi.github.io/media/posts/2/07-02-17small.jpg",
+            "author": {
+                "name": "Jessica"
+            },
+            "tags": [
+                   "jlaurenart"
+            ],
+            "date_published": "2017-07-29T13:28:52-07:00",
+            "date_modified": "2017-07-29T12:49:02-07:00"
+        },
+        {
+            "id": "https://jlcrupi.github.io/speechless.html",
+            "url": "https://jlcrupi.github.io/speechless.html",
+            "title": "Speechless",
+            "content_html": "<img class=\"post__image--center\" src=\"https://jlcrupi.github.io/media/posts/1/metalposter.jpg\" alt=\"Speechless\" width=\"3000\" height=\"4500\">",
+            "image": "https://jlcrupi.github.io/media/posts/1/metalposter.jpg",
+            "author": {
+                "name": "Jessica"
+            },
+            "tags": [
+                   "jlaurenart"
+            ],
+            "date_published": "2017-07-29T13:28:52-07:00",
+            "date_modified": "2017-07-29T12:46:10-07:00"
+        }
+    ]
+}
